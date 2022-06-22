@@ -6,6 +6,6 @@ This script have main 2 functions:
 
 2- sub domain enumeration 
 
-program usage: python3 sub-dir-enumer.py 1 or 2 <wordlist full path> <target url> 
+program usage: python3 sub-dir-enumer.py 1 or 2 /wordlist full path/ /target url/
 
 That 's it and now sit back wait for results
